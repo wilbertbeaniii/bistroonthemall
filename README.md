@@ -8,6 +8,16 @@ The current website does not allow customers to view the menu, place orders for 
 Goal Statement
 Create a website where customers can view the menu, place orders through square, and make reservations. 
 
+Project Timeline and Milestones
+Discovery - Completed
+Content - Working
+Design - Working
+Prototype - 06/21
+Revision - 06/22
+Pre-Launch - 06/23
+Launch - 06/24
+Management - 06/25 
+
 Scope - First/Last and In/Out
 1st Process Step
 - Project Discovery
